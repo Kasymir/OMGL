@@ -1,0 +1,19 @@
+Comment j'ai fait fonctionné cette merde : 
+
+J'ai installé GitHub sur mon pc
+
+j'ai cliqué sur le "plus" en haut a gauche
+
+j'ai fait "clone" et comme vous etes ajouter au projet, vous allez voir "OMGL" vous validez.
+
+Puis en haut à droite, y a un petit engrennage, clic dessus, ouvrir Git Shell et là dans le shell, vous tapez "git pull"
+
+vous allez récup' tout ce qui a été déjà fait
+
+ensuite, quand vous allez vouloir mettre en ligne votre taff, vous allez devoir mettre votre fichier dans le fichier "OMGL" créé localement sur votre machine ( Documents\git\OMGL\ par défaut),
+
+vous retournez dans GitHub ( logiciel ) vous allez voir apparaitre au milieu en haut un message du genre, une modif qui a pas été encore commit, 
+
+vous faites commit en indiquant sérieusement à quoi ca correspond et une description si nécéssaire, 
+
+puis dans le Git Shell, vous tapez "git push" et voila, votre boulot est en ligne. 
