@@ -1,6 +1,6 @@
 Clement : Connexion SQL/ C# - Nuances
 Remy : Rocket SQL
 Johnny Crying : Conversion RGB/hexa
-Banjemin : Création de palette
+Banjemin : Creation de palette
 Matthieu : Design
 Florian : BDD
