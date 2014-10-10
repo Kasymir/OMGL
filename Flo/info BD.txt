@@ -1,0 +1,12 @@
+base de donnée SQL
+
+2 tables dans la base de donnée (comme prevu).
+pour avoir les couleurs dans la table palette :
+ SELECT code_couleur FROM palette WHERE Id_entreprise = "num de l'entreprise souhaité";
+
+même si on doit changé (plus sur git hub) mais sur le truc de demory (ou pour l'instant on en sais rien)
+je la fou quand même dans le dépot ^^
+si y'a des blem dites le moi et je reverai, et si vous changé d'avis pour la BD etc...
+
+bon JME IRRRRRE ! 
+cordialement B.coucoune.
